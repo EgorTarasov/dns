@@ -1,0 +1,9 @@
+quasar.yandex.net
+quasar.yandex.ru
+yandex.station
+iot.quasar.yandex.ru
+glagol.yandex.net
+glagol.yandex.ru
+tts.voicetech.yandex.net
+asr.yandex.net
+uniproxy.alice.yandex.net
